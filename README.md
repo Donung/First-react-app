@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-![alt text](https://ibb.co/pQBKVtH)
+![Alt Text](https://s2.gifyu.com/images/0104ccff36fc2375bf.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
